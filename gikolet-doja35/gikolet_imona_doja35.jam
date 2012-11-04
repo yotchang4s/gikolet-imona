@@ -1,0 +1,11 @@
+PackageURL = http://s2f.jp/gikolet/imona/gikolet_imona_doja35.jar
+AppSize = 204212
+AppName = Gikolet 4 iMona
+AppVer = 0.3.7
+AppClass = gikolet.doja.GikoletIApplication
+SPsize = 102400
+UseBrowser = launch
+UseNetwork = http
+ProfileVer = DoJa-3.5
+LastModified = Wed, 25 Jan 2006 02:55:28
+ConfigurationVer = CLDC-1.0

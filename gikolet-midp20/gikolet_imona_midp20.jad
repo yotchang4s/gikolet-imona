@@ -1,0 +1,12 @@
+MIDlet-1: Gikolet for iMona,/icon.png,gikolet.midp20.GikoletMIDP20MIDlet
+MIDlet-Jar-URL: gikolet_imona_midp20.jar
+MIDlet-Icon: /icon.png
+MicroEdition-Configuration: CLDC-1.1
+iMona-ServerURI-1: http://s2f.jp/gikolet/imona/2.cgi
+MIDlet-Version: 0.3.7
+MIDlet-Vendor: Tetsutaro
+MIDlet-Name: Gikolet for iMona
+MIDlet-Data-Size: 40000
+MIDlet-Info-URL: http://s2f.jp/gikolet/
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MicroEdition-Profile: MIDP-2.0
